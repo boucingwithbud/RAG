@@ -2,8 +2,6 @@
 
 API FastAPI qui fait tourner un chatbot RAG (Retrieval-Augmented Generation) spécialisé sur Rainbow Six Siege. Le bot répond aux questions en s'appuyant sur un guide PDF, garde un historique de conversation par utilisateur, et le tout est protégé par une authentification JWT classique.
 
-Il n'y avait pas de README dans le dépôt, ce document a été écrit en lisant le code (`main.py`, `history.py`, `authentication.py`, `user.py`, `models.py`, etc.).
-
 ## Stack
 
 - FastAPI + Uvicorn
